@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XO_Game</string>
+    <string name="btn3x3">3x3</string>
+    <string name="btn5x5">5x5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
